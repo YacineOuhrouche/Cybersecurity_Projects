@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="password">
+        <input type="password" id="password" placeholder="Password">
+        <p id="msg">Password is <span id="strength"> </span></p>
+    </div>
+
+    <script>
+        var password = document.getElementById("password");
+        var message = document.getElementById("msg");
+        var strength = document.getElementById("strength");
+
+        password.addEventListener('input', () => {
+            if(password.value.length > 0){
+                message.style.display = "block";
+            }
+            else{
+                message.style.display = "none";
+            }
+
+            if(password.value.length < 4){
+                strength.innerHTML = 'weak';
+                password.style.borderColor = "#ff5925"
+                message.style.color = "#ff5925";
+            }
+            else if (password.value.length > 4 && password.value.length <= 8){
+                strength.innerHTML = 'medium';
+                password.style.borderColor = "#ffff00";
+                message.style.color = "#ffff00";
+            }
+            else if(password.value.length > 8){
+                strength.innerHTML = 'strong';
+                password.style.borderColor = "#26d730";
+                message.style.color = "#26d730";
+            }
+        })
+    </script>
+</body>
+</html>

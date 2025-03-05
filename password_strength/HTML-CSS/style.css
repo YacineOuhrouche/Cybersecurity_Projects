@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+body{
+    background: #131313;
+    display: flex;
+    justify-content: center;
+}
+
+.password{
+    transform: translateY(50vh);
+    width: 25%;
+}
+
+.password input{
+    background: none;
+    border: 1px solid #fff;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    color: #fff;
+    outline: none;
+}
+
+#msg{
+    color: #fff;
+    margin: 10px 0;
+    display: none;
+}
