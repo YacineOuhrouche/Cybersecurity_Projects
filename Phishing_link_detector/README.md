@@ -42,6 +42,5 @@ Phishing attacks are a common threat, tricking users into visiting **malicious w
 
 ## 📸
 
+![Screenshot 2025-03-05 201741](https://github.com/user-attachments/assets/082ade3c-793e-4f2d-a325-483f2873c4d8)
 
-
-![Screenshot 2025-01-17 125923](https://github.com/user-attachments/assets/258949bc-c858-44ae-a652-10c6292dccb9)
