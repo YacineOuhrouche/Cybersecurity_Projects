@@ -38,7 +38,5 @@ This Python program generates a **random password** based on user-defined criter
 
 ## 📸 Example
  **GUI Example**:  
-![Screenshot 2025-03-01 132248](https://github.com/user-attachments/assets/3def4c1b-e29f-46b9-b932-4368d68b90dd)
+![Screenshot 2025-03-05 201632](https://github.com/user-attachments/assets/2680296f-2a83-4fed-80c5-071a0bc3bad0)
 
- **Terminal Example **:  
-![Screenshot 2025-01-16 140713](https://github.com/user-attachments/assets/7bb01589-7930-4365-b462-1f4c100a9215)
