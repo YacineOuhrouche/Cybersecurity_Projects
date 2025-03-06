@@ -41,9 +41,11 @@ This project includes **two implementations** of a **Password Strength Checker**
 
 **HTML Version:**
 
-                                      
-![Screenshot 2025-01-16 170234](https://github.com/user-attachments/assets/323c69fc-df5b-4659-8bf3-0670ec453048)
+![Screenshot 2025-03-05 202012](https://github.com/user-attachments/assets/938f436a-5da3-4393-831d-bc40df741e51)
+             
+
 
   **Python Version :**                                           
-![Screenshot 2025-01-16 170154](https://github.com/user-attachments/assets/c6705bfc-e268-4601-86ec-06719dcaebc0)
+
+![Screenshot 2025-03-05 202040](https://github.com/user-attachments/assets/eaa9a784-c17e-48c2-aa99-267fb4381f5d)
 
