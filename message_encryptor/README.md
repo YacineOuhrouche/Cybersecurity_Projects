@@ -36,8 +36,7 @@ This Python program allows you to **encrypt** and **decrypt** messages using the
 ## 📸 
 
  **GUI Example **:  
-![Screenshot 2025-03-01 131413](https://github.com/user-attachments/assets/f53f7132-4ff8-4673-b7f9-1db9daf999fe)
 
- ** Terminal Example **:  
 
-![Screenshot 2025-01-16 144145](https://github.com/user-attachments/assets/a962bfc5-a9cd-4b73-8e8d-1091094f5fb7)
+
+![Screenshot 2025-03-05 201859](https://github.com/user-attachments/assets/becd2c39-5406-4314-8325-57ef053a008c)
