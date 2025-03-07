@@ -72,8 +72,7 @@ This repository contains practical tools I’ve built to explore **cybersecurity
 This collection serves as:
 
 ✅ My **learning playground** to apply cybersecurity concepts in code.  
-✅ A **personal toolkit** for everyday security tasks.  
-✅ A **resource for others** interested in beginner-friendly cybersecurity projects.
+
 
 ---
 
